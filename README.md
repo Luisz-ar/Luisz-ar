@@ -2,9 +2,6 @@
 
 <img src="Banner ROCKSTAR.jpg" width="70%" alt="Rockstar Banner"/>
 
-<!-- ⚠️ Troque a URL acima pela imagem "Rock Star" que você enviou.
-     Suba ela no seu repositório (ex: dentro de uma pasta /assets) e use o link raw do GitHub. -->
-
 # Olá, eu sou o Luis 👋
 
 **Estudante de Ciência da Computação | Back-end & Full-stack Developer em formação**
